@@ -1,1 +1,5 @@
 # An-Experimental-Proposal-to-Quantify-Particle-Therapy-Efficacy
+
+Beam therapy is a precise and effective cancer treatment that utilizes high-energy beams of particles—electrons, photons, protons, and ions—to kill tumors selectively. Different beams penetrate to different depths and deposit their energy in varying profiles, thus being best suited for the treatment of tumors located at different depths in the body. 
+But the cost of beam therapy is a significant barrier to research and optimization. Current testing and modeling approaches rely primarily on mathematical simulation or costly 3D-printed tumor models, not accessible and scalable. To address this, we present a low-cost artificial non-biological tumor model that employs fluorescence quenching to image real-time beam interactions.
+Our experiment will show the utility of this artificial tumor model and how it can quantitatively measure the therapeutic effect of different beams(specifically electron and proton beams). In providing an inexpensive and scalable method to test beams, we hope our study will be able to find its place in larger studies to further improve treatments.
